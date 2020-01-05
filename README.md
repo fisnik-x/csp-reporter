@@ -1,4 +1,4 @@
-# CSP-Reporter
+# CSP Reporter
 A simple PHP CSP reporter script that saves violations to disk.
 
 ## Usage

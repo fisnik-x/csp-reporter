@@ -1,0 +1,30 @@
+===============5/1/2020 19:18:22===============
+Document URI: https://localhost/violate-csp
+Referrer: https://www.google.com/
+Violated Directive: default-src self
+Original Policy: "default-src self; report-uri /csp-reporter.php"
+Blocked URI: http://hackers.com
+===============5/1/2020 19:18:24===============
+Document URI: https://localhost/violate-csp
+Referrer: https://www.google.com/
+Violated Directive: default-src self
+Original Policy: "default-src self; report-uri /csp-reporter.php"
+Blocked URI: http://hackers.com
+===============5/1/2020 19:18:25===============
+Document URI: https://localhost/violate-csp
+Referrer: https://www.google.com/
+Violated Directive: default-src self
+Original Policy: "default-src self; report-uri /csp-reporter.php"
+Blocked URI: http://hackers.com
+===============5/1/2020 20:22:04===============
+Document URI: http://192.168.0.108:443/csp-violation-reporter/test.php
+Referrer: 
+Violated Directive: img-src
+Original Policy: "connect-src 'self' ;default-src 'self';frame-ancestors 'self' ;frame-src 'none';object-src 'none'; report-uri http://192.168.0.108:443/csp-violation-reporter/csp-reporter.php;script-src 'self' 'unsafe-inline' example.com code.jquery.com https://ssl.google-analytics.com ;style-src 'self' 'unsafe-inline';"
+Blocked URI: http://evil.example.com/image.png
+===============5/1/2020 20:22:08===============
+Document URI: http://192.168.0.108:443/csp-violation-reporter/test.php
+Referrer: 
+Violated Directive: img-src
+Original Policy: "connect-src 'self' ;default-src 'self';frame-ancestors 'self' ;frame-src 'none';object-src 'none'; report-uri http://192.168.0.108:443/csp-violation-reporter/csp-reporter.php;script-src 'self' 'unsafe-inline' example.com code.jquery.com https://ssl.google-analytics.com ;style-src 'self' 'unsafe-inline';"
+Blocked URI: http://evil.example.com/image.png
